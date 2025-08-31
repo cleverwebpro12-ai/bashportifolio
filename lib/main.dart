@@ -397,7 +397,7 @@ class _PortfolioPageState extends State<PortfolioPage> {
                 ClipRRect(
                   borderRadius: BorderRadius.circular(12),
                   child: Image.asset(
-                    'bash.jpg', // Placeholder
+                    'assets/images/bash.jpg', // Placeholder
                     fit: BoxFit.cover,
                     height: 400,
                     width: 400,
